@@ -138,11 +138,12 @@ The server never sees plaintext—only relays ciphertext.
 
 ## 🎥 Real-Time Demo
 
-Coming soon: A full terminal-recorded session showing:
-
+A full terminal-recorded session showing:
 * What a client sends to the server (raw TCP data)
 * How the encrypted packet looks in transit (non-human-readable)
 * What each client sees before & after encryption
+
+https://github.com/user-attachments/assets/2de91535-f279-4bc3-bbd9-c3d24fa34493
 
 ---
 
